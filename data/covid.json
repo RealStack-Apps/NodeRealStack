@@ -1,0 +1,148 @@
+[
+    {
+      "name": "Global",
+      "totalCases": 108006680,
+      "caseDensity": 1383.5816263321012,
+      "deaths": 2378115,
+      "deathDensity": 30.464006664261554
+    },
+    {
+      "name": "United States",
+      "totalCases": 27130272,
+      "caseDensity": 8196.39,
+      "deaths": 471765,
+      "deathDensity": 142.53
+      
+    },
+      {
+      "name": "Jordan",
+      "totalCases": 344803,
+      "caseDensity": 3379.38,
+      "deaths": 4444,
+      "deathDensity": 43.56
+          
+    },
+      {
+      "name": "Russia",
+      "totalCases": 4057698,
+      "caseDensity": 2780.49,
+      "deaths": 79696,
+      "deathDensity": 54.61
+  },
+  {  
+      "name": "The UK",
+      "totalCases": 4013803,
+      "caseDensity": 5912.56,
+      "deaths": 116287,
+      "deathDensity": 171.3
+  },{
+      "name": "France",
+      "totalCases": 3369672,
+      "caseDensity": 5162.39,
+      "deaths": 81033,
+      "deathDensity": 124.14
+  },
+    {
+      "name": "India",
+      "totalCases": 10904940,
+      "caseDensity": 790.21,
+      "deaths": 155642,
+      "deathDensity": 11.28
+    },
+      {
+      "name": "Lebanon",
+      "totalCases": 336992,
+      "cases ": 4937.29,
+      "deaths": 3961,
+      "deathDensity": 58.03
+  },
+    {
+      "name": "Brazil",
+      "totalCases": 9765455,
+      "caseDensity": 4594.22,
+      "deaths": 237489,
+      "deathDensity": 111.73
+    },
+    {
+      "name": "Spain",
+      "totalCases": 3041454,
+      "caseDensity": 6505.12,
+      "deaths": 64217,
+      "deathDensity": 137.35
+      
+    },
+    {
+      "name": "Italy",
+      "totalCases": 2697296,
+      "caseDensity": 4461.16,
+      "deaths": 93045,
+      "deathDensity": 153.89
+  } , {
+      "name": "Japan",
+      "WHO Region": "Western Pacific",
+      "totalCases": 414472,
+      "caseDensity": 327.71,
+      "deaths": 6912,
+      "deathDensity": 5.47
+    },
+    {
+      "name": "Hungary",
+      "WHO Region": "Europe",
+      "totalCases": 385755,
+      "caseDensity": 3993.18,
+      "deaths": 13636,
+      "deathDensity": 141.15
+    },
+    {
+      "name": "Saudi Arabia",
+      "totalCases": 372410,
+      "caseDensity": 1069.72,
+      "deaths": 6428,
+      "deathDensity": 18.46
+    },
+    {
+      "name": "United Arab Emirates",
+      "totalCases": 345605,
+      "caseDensity": 3494.35,
+      "deaths": 1001,
+      "deathDensity": 10.12
+    },
+      {
+      "name": "Belgium",
+      "totalCases": 735220,
+      "caseDensity": 6343.78,
+      "deaths": 21599,
+      "deathDensity": 186.36
+      
+     },
+    {
+      "name": "Israel",
+      "totalCases": 705092,
+      "caseDensity": 8146.14,
+      "deaths": 5238,
+      "deathDensity": 60.52
+    },
+    {
+      "name": "Sweden",
+      "totalCases": 608411,
+      "caseDensity": 6024.31,
+      "deaths": 12428,
+      "deathDensity": 123.06
+      
+    },
+    {
+      "name": "Switzerland",
+      "totalCases": 538116,
+      "caseDensity": 6217.67,
+      "deaths": 8982,
+      "deathDensity": 103.78
+      },
+      {
+      "name": "Austria",
+      "totalCases": 427367,
+      "caseDensity": 4745.15,
+      "deaths": 8076,
+      "deathDensity": 89.67
+      
+      }
+    ]

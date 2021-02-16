@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Global",
+      "totalCases": 108006680,
+      "caseDensity": 1383.5816263321012,
+      "deaths": 2378115,
+      "deathDensity": 30.464006664261554
+    },
+    {
+      "name": "United States",
+      "totalCases": 27130272,
+      "caseDensity": 8196.39,
+      "deaths": 471765,
+      "deathDensity": 142.53
+      
+    },
+      {
+      "name": "Jordan",
+      "totalCases": 344803,
+      "caseDensity": 3379.38,
+      "deaths": 4444,
+      "deathDensity": 43.56
+          
+    },
+      {
+      "name": "Russia",
+      "totalCases": 4057698,
+      "caseDensity": 2780.49,
+      "deaths": 79696,
+      "deathDensity": 54.61
+  },
+  {  
+      "name": "The UK",
+      "totalCases": 4013803,
+      "caseDensity": 5912.56,
+      "deaths": 116287,
+      "deathDensity": 171.3
+  },{
+      "name": "France",
+      "totalCases": 3369672,
+      "caseDensity": 5162.39,
+      "deaths": 81033,
+      "deathDensity": 124.14
+  }]
